@@ -1,0 +1,60 @@
+{
+    "teacher": {
+        "name": "Sergei",
+        "lastName": "Birskiy"
+    },
+    "students": [
+        {
+            "name": "Yaroslav",
+            "lastName": "Morgun"
+        },
+        {
+            "name": "Elena",
+            "lastName": "Semchenko"
+        },
+        {
+            "name": "Victoria",
+            "lastName": "Kasyanova"
+        },
+        {
+            "name": "Allina",
+            "lastName": "Stoyka"
+        },
+        {
+            "name": "Evgeny",
+            "lastName": "Tskhovrebov"
+        },
+        {
+            "name": "Olga",
+            "lastName": "Beh"
+        },
+        {
+            "name": "Maxim",
+            "lastName": "Lisenko"
+        },
+        {
+            "name": "Daniil",
+            "lastName": "Sapelkin"
+        },
+        {
+            "name": "Anastasiya",
+            "lastName": "Voronkina"
+        },
+        {
+            "name": "Yuliya",
+            "lastName": "Gritsenko"
+        },
+        {
+            "name": "Olga",
+            "lastName": "Aronovich"
+        },
+        {
+            "name": "Yan",
+            "lastName": "Nevmergitskiy"
+        },
+        {
+            "name": "Mikhail",
+            "lastName": "Sergey"
+        }
+    ]
+}
